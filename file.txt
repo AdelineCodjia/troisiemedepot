@@ -2,3 +2,4 @@ hello!
 2eme ligne
 modifcation au niveau de la branche
 test de merge sans fast forward
+test merge conflit
