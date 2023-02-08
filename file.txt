@@ -8,3 +8,4 @@ test de merge conflit au niveau de master
 test merge conflit
 test merge conflit
 test rebase niveau de b
+commit à partir de vscode
