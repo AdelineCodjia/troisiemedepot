@@ -2,4 +2,7 @@ hello!
 2eme ligne
 modifcation au niveau de la branche
 test de merge sans fast forward
+
 test de merge conflit au niveau de master
+test merge conflit
+
